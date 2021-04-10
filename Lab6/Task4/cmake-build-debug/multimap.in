@@ -1,0 +1,6 @@
+put aa x
+delete aa x
+get aa
+put aa b
+get aa
+delete aa b
