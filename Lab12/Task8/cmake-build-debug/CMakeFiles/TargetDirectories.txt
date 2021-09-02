@@ -1,0 +1,3 @@
+D:/Ivan/ITMO/Algorithms/Lab12/Task8/cmake-build-debug/CMakeFiles/Task8.dir
+D:/Ivan/ITMO/Algorithms/Lab12/Task8/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Ivan/ITMO/Algorithms/Lab12/Task8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
