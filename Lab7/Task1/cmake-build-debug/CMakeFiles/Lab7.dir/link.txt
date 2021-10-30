@@ -1,3 +1,0 @@
-"D:\Ivan\Programming\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Lab7.dir/objects.a
-D:\Ivan\Programming\MinGW\bin\ar.exe cr CMakeFiles\Lab7.dir/objects.a @CMakeFiles\Lab7.dir\objects1.rsp
-D:\Ivan\Programming\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Lab7.dir/objects.a -Wl,--no-whole-archive  -o Lab7.exe -Wl,--out-implib,libLab7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Lab7.dir\linklibs.rsp
