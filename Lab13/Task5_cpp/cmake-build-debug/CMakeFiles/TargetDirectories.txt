@@ -1,3 +1,0 @@
-D:/Ivan/ITMO/Algorithms/Lab13/Task5_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/Ivan/ITMO/Algorithms/Lab13/Task5_cpp/cmake-build-debug/CMakeFiles/Task5_cpp.dir
-D:/Ivan/ITMO/Algorithms/Lab13/Task5_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir

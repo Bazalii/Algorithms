@@ -1,3 +1,0 @@
-D:/Ivan/ITMO/Algorithms/Lab1/Task5/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_008a9.dir
-D:/Ivan/ITMO/Algorithms/Lab1/Task5/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
-D:/Ivan/ITMO/Algorithms/Lab1/Task5/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
